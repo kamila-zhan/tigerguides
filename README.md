@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Tiger Guides
+title: Гайды по психологии
 permalink: /
 ---
-
-Гайды по психологии 
 
 Начните тут: **[Навыки](https://kamila-zhan.github.io/tigerguides/skills/)**
 
