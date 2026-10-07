@@ -49,10 +49,10 @@ exclude:
 collections:
   guides:
     output: true
-    permalink: /:title/
+    permalink: /:title
   others:
     output: true
-    permalink: /:title/
+    permalink: /:title
 
 ordered_collections:
   - guides
