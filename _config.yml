@@ -59,6 +59,7 @@ collections:
 
 ordered_collections:
   - guides
+  - issues
   - others
 
 page_width: 800px
