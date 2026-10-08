@@ -1,5 +1,5 @@
 # Configurations
-title:            Гайды по психологии
+title:            Гайд по навыкам
 longtitle:        Brain & Psychology
 author:           Kamila Zhanuzak
 email:            kzhanuzak8@gmail.com
@@ -48,6 +48,9 @@ exclude:
 
 collections:
   guides:
+    output: true
+    permalink: /:title/
+  issues:
     output: true
     permalink: /:title/
   others:

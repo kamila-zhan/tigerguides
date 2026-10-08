@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Гайды по психологии
+title: Гайд по навыкам
 permalink: /
 ---
 
