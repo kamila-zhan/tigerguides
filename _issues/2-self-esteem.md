@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Низкая Самооценка
+title: Низкая самооценка
 slug: self-esteem
 ---
 
